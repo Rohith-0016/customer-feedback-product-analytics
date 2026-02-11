@@ -77,10 +77,14 @@ This project demonstrates how structured feedback analytics can:
 - Improve customer satisfaction  
 - Enable data-driven product decisions  
 
+---
+
 ## ▶️ How to Run
+
+Follow the steps below to run the project locally.
+
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/customer-feedback-product-analytics.git
 cd customer-feedback-product-analytics
-pip install -r requirements.txt
-python main.py
