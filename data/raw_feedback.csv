@@ -1,1 +1,6 @@
-
+CustomerID,Category,Rating,Comments
+101,Delivery,2,Delayed delivery
+102,Payment,4,Smooth payment
+103,Service,1,Poor support
+104,Delivery,3,Average delivery
+105,Product,5,Excellent quality
